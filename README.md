@@ -1,2 +1,3 @@
-# Wireless-Weather-Station
-Wireless Weather Station - Hardware
+# Environmental Data Acquisition System - Hardware
+
+TBD
